@@ -1,4 +1,4 @@
-# 🛡️ Secure Azure Storage Deployment with Terraform
+# Secure Azure Storage Deployment with Terraform
 
 ## Oveerview
 
