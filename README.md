@@ -22,15 +22,14 @@ This project demonstrates how to securely deploy an Azure Storage Account using 
 - **Azure CLI** v2.76
 - **GitHub** for version control and collaboration
 -  **VS Code** 
--
 
 ---
 
 ## File Structure
 
-|---- main.tf           # Core resources: resource group + storage account
-|---- logging.tf        # Log Analytics + diagnostic settings
-|---- variables.tf      # Reusable input variables
-|---- outputs.tf        # Useful output values
-|---- policy.md         # Documentation for custom Azure Policy
-|----README.md         # Project overview
+├── main.tf           # Core resources: resource group + storage account
+├── logging.tf        # Log Analytics + diagnostic settings
+├── variables.tf      # Reusable input variables
+├── outputs.tf        # Useful output values
+├── policy.md         # Documentation for custom Azure Policy
+├── README.md         # Project overview
