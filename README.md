@@ -11,6 +11,7 @@ This project demonstrates how to securely deploy an Azure Storage Account using 
 - ✅ **Custom Azure Policy** to block public network access
 - ✅ **Log Analytics Workspace** for centralized logging
 - ✅ **Diagnostic Settings** for blob read/write/delete operations
+- ✅ **GitHub Actions** GitHub Actions & Collaboration
 - ✅ **Modular Terraform files** (`main.tf`, `logging.tf`, `variables.tf`, `outputs.tf`)
 
 ---
