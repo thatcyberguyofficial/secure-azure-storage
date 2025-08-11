@@ -29,5 +29,6 @@ resource "azurerm_storage_account" "storage" {
   min_tls_version          = "TLS1_2"
   tags = {
     environment = "cyberguy-storageacct-demo"
+    owner       = "thatcyberguy"
   }
 }
